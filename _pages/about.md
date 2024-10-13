@@ -25,9 +25,9 @@ huh?
 ======
 This is a test.
 can you see the image???
-[image](../images/daliwang.png)
+![image](../images/daliwang.png)
 or this?
-[putongren](../images/putongren.png)
+![putongren](../images/putongren.png)
 (I don't play fire)
 
 
