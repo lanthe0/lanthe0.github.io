@@ -24,11 +24,19 @@ None
 huh?
 ======
 This is a test.
+<<<<<<< HEAD
 can you see the image???<br>
 ![image](../images/daliwang.png)<br>
 or this?<br>
 ![putongren](../images/putongren.png)<br>
 (I don't play fire)<br>
+=======
+can you see the image???
+![image](../images/daliwang.png)
+or this?
+![putongren](../images/putongren.png)
+(I don't play fire)
+>>>>>>> fef166b21f576e71d5770ee5a804ff964a1d3697
 
 
 
